@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/LoLImprove/Rise.png?label=ready&title=Ready)](https://waffle.io/LoLImprove/Rise)
 # -- Rise
 
 ## RTS/MOBA Improvement Platform
